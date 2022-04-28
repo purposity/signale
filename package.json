@@ -1,6 +1,6 @@
 {
-  "name": "signale",
-  "version": "1.4.0",
+  "name": "@purposity/signale",
+  "version": "1.4.1",
   "description": "Highly configurable logging utility",
   "license": "MIT",
   "repository": "klaussinani/signale",
